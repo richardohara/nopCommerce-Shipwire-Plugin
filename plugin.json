@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Order Fullfillment",
+  "FriendlyName": "Shipwire",
+  "SystemName": "OrderFullfillment.Shipwire",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Richard O'Hara",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.OrderFullfillment.Shipwire.dll",
+  "Description": "Allows interaction with the Shipwire order fullfillment platform"
+}
